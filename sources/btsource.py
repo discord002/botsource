@@ -1,2 +1,2 @@
-def onstart():
-  
+def onstart(bottoken):
+    print("BotStartingPrompt " + bottoken)
